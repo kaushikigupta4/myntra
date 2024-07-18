@@ -1,0 +1,119 @@
+
+  @import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+                                                                     
+
+.left img{
+    height: 40px;
+    width:auto ;
+    align-items: center;
+    
+}
+nav ul li{
+    list-style-type: none;
+  padding-right: 40px;
+  font-size: 13px;
+}
+.left{
+  
+    padding-left: 0px;
+ }
+.banners21554285340 img{
+  height:180px;
+  width:auto
+ 
+}
+.footer{
+  padding:0vw 10vw;
+  display: flex;
+  height: max-content;
+  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+ justify-content: center;
+ margin: 60px;
+}
+
+.lane21{
+  display: flex;
+  justify-content: center;
+  margin:10px;
+  padding:2vw 0vw;
+  font-family: Assistant,-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Helvetica,Arial,sans-serif;
+  font-weight: bold;
+  font-size: large;
+  letter-spacing: 4px;
+}
+.images2 img{
+
+    margin: 5px;
+    height: 206px;
+    width: 12vw;
+    overflow: hidden;
+
+}
+.lane3,.lane4,.lane5{
+  display: flex;
+  justify-content: center;
+  margin:10px;
+  padding:2vw 0vw;
+  font-family: Assistant,-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Helvetica,Arial,sans-serif;
+  font-weight: bold;
+  font-size: large;
+  letter-spacing: 4px;
+}
+.images4{
+  margin: 0px 80px;
+  display: flex;
+  justify-content: center;
+  width:90vw
+}
+.images4 img{
+  margin: 5px;
+  height: 206px;
+  width: 20vw;
+  overflow: hidden;
+}
+.images5{
+
+  display: flex;
+  justify-content: center;
+  width:90vw;
+  margin:0px 100px
+}
+.images5 img{
+  margin: 5px;
+  height: 206px;
+  width: 19vw;
+  overflow: hidden;
+}
+p {
+  font-size: 24px;
+  color: red;
+  position: relative;
+}
+
+p::after {
+  content: "";
+  display: block;
+  width: 10px;
+  height: 10px;
+  background: red;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%) rotate(45deg);
+}
+.fa-solid{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.last1,.last2,.last3,.last4,.last5,.last6,.last7{
+  padding: 0vw 5vw;
+  margin: .6vw 5vw;
+  justify-content: center;
+  align-items: center;
+  width: 80vw;
+}
+.container2{
+  padding: 0vw 50vw;
+  background: rgb(237, 237, 237);
+}
